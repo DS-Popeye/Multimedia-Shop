@@ -67,3 +67,11 @@ section {
     font-size: 52px;
     color: #3A3A3A;
 }
+
+.desc p {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    color: #3A3A3A;
+}
