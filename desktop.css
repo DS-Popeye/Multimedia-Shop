@@ -48,3 +48,8 @@ nav ul li a:hover {
 }
 
 /* Navbar End */
+
+/* section start */
+section {
+    padding: 0 10%;
+}
