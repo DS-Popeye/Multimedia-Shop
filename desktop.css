@@ -53,3 +53,14 @@ nav ul li a:hover {
 section {
     padding: 0 10%;
 }
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.desc h1 {
+    font-family: poppins;
+    font-style: normal;
+}
