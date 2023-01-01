@@ -1,8 +1,10 @@
+/* Navbar Start */
 nav {
     display: flex;
     align-items: center;
     background-size: cover;
     padding: 0 10%;
+    justify-content: space-between;
 }
 
 nav ul li {
@@ -44,3 +46,5 @@ nav ul li a:hover {
     color: red;
     transition: 0.3s;
 }
+
+/* Navbar End */
