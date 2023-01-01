@@ -56,12 +56,14 @@ section {
 
 .container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 10px;
 }
 
 .desc h1 {
-    font-family: poppins;
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 700;
+    font-size: 52px;
+    color: #3A3A3A;
 }
