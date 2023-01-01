@@ -95,4 +95,10 @@ section {
 
 
     color: #FFFFFF;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
+
+.btn i {}
