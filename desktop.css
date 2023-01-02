@@ -74,6 +74,7 @@ section {
     font-weight: 600;
     font-size: 16px;
     color: #3A3A3A;
+    padding-right: 60px;
 }
 
 .btn {
@@ -98,8 +99,13 @@ section {
     padding: 0 10px 0 0;
 }
 
-.container img img {
-    width: 440px;
-    height: 100px;
+.bg {
+    background-image: url(./images/Circle\ design.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
 
+.img {
+    width: 440px;
+    height: 414px;
 }
