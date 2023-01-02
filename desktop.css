@@ -80,10 +80,11 @@ section {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    padding: 10px 24px;
+    padding: 1px 24px;
     gap: 8px;
     background: #E02C6D;
     border-radius: 41px;
+    border-color: ;
 }
 
 .btn h3 {
@@ -91,14 +92,7 @@ section {
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    line-height: 24px;
-
 
     color: #FFFFFF;
-
-    flex: none;
-    order: 0;
-    flex-grow: 0;
+    padding: 0 10px 0 0;
 }
-
-.btn i {}
