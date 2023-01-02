@@ -110,7 +110,11 @@ section {
     height: 414px;
 }
 
+.sponser {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 .sponser img {
-    width: 84px;
-    height: 26px;
+    padding: 10px 20px;
 }
