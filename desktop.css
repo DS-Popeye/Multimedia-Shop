@@ -77,6 +77,7 @@ section {
 }
 
 .btn {
+    width: 156px;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -84,7 +85,7 @@ section {
     gap: 8px;
     background: #E02C6D;
     border-radius: 41px;
-    border-color: ;
+    text-decoration: none;
 }
 
 .btn h3 {
@@ -95,4 +96,10 @@ section {
 
     color: #FFFFFF;
     padding: 0 10px 0 0;
+}
+
+.container img img {
+    width: 440px;
+    height: 100px;
+
 }
