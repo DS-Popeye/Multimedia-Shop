@@ -19,13 +19,15 @@ nav ul li a {
     color: #3A3A3A;
 }
 
-.logo {
+
+.logo a {
     font-size: 24px;
     font-family: 'Poppins', sans-serif;
     color: #3A3A3A;
     font-weight: 700;
     font-style: normal;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .button {
@@ -42,12 +44,15 @@ nav ul li a:hover {
     transition: 0.3s;
 }
 
-.logo h2:hover {
+.logo a:hover {
     color: red;
-    transition: 0.3s;
+    transition: 0.1s;
 }
 
 /* Navbar End */
+
+
+
 
 /* section start */
 section {
