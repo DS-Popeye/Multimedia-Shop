@@ -118,3 +118,11 @@ section {
 .sponser img {
     padding: 10px 20px;
 }
+
+
+.collection h1 {
+    font-size: 28px;
+    font-weight: 600;
+    color: #3A3A3A;
+    text-align: center;
+}
