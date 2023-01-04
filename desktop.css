@@ -156,6 +156,13 @@ section {
     font-family: 'Poppins', sans-serif;
 }
 
+.product h3 {
+    font-size: 24px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.87);
+    font-family: 'Poppins', sans-serif;
+}
+
 .filled {
     color: orange;
     height: 16px;
