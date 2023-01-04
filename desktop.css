@@ -144,7 +144,6 @@ section {
 .product {
     border: 2px solid #E02C6D;
     padding: 15px;
-    box-shadow: #E02C6D;
 }
 
 .filled {
@@ -154,7 +153,7 @@ section {
 }
 
 .r-text {
-    padding-left: 50px;
+    padding-left: 20px;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     size: 22px;
