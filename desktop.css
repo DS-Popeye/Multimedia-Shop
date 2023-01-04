@@ -142,8 +142,11 @@ section {
 }
 
 .product {
-    border: 2px solid #E02C6D;
     padding: 15px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    margin: 10px;
 }
 
 .filled {
