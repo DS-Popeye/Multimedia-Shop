@@ -146,7 +146,7 @@ section {
     background: #FFFFFF;
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
     border-radius: 5px;
-    margin: 10px;
+    margin: 5px;
 }
 
 .filled {
@@ -164,4 +164,10 @@ section {
     align-items: center;
     letter-spacing: 0.1px;
     color: #5E6366;
+}
+
+.rating p {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
 }
