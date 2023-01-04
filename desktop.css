@@ -138,4 +138,11 @@ section {
 .products {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    gap: 8px;
+}
+
+.product {
+    border: 2px solid #E02C6D;
+    padding: 15px;
+    box-shadow: #E02C6D;
 }
