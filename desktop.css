@@ -146,3 +146,9 @@ section {
     padding: 15px;
     box-shadow: #E02C6D;
 }
+
+.filled {
+    color: orange;
+    height: 16px;
+    width: 16px;
+}
