@@ -149,6 +149,13 @@ section {
     margin: 5px;
 }
 
+.product h2 {
+    font-size: 28px;
+    font-weight: 500;
+    color: #18191F;
+    font-family: 'Poppins', sans-serif;
+}
+
 .filled {
     color: orange;
     height: 16px;
@@ -171,5 +178,4 @@ section {
     font-weight: 700;
     font-size: 14px;
     color: #787885;
-    ;
 }
