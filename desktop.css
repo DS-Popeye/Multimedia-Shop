@@ -152,3 +152,14 @@ section {
     height: 16px;
     width: 16px;
 }
+
+.r-text {
+    padding-left: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    size: 22px;
+    display: column;
+    align-items: center;
+    letter-spacing: 0.1px;
+    color: #5E6366;
+}
