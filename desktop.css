@@ -239,3 +239,8 @@ section {
     background-color: #0A0826;
     color: white;
 }
+
+.footer h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
