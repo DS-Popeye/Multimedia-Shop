@@ -244,4 +244,10 @@ section {
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     font-size: 24px;
+    padding: 10px 0;
+}
+
+.footer p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
 }
