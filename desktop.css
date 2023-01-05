@@ -251,3 +251,11 @@ section {
     font-size: 14px;
     padding: 4px 0;
 }
+
+.about-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    padding-top: 10px;
+}
