@@ -200,9 +200,7 @@ section {
     font-size: 16px;
     color: rgba(224, 44, 109, 0.87);
     text-decoration: none;
-
-    border: 3px solid red;
-    margin-left: 88%;
+    flex-direction: row-reverse;
 }
 
 .more h3 {
