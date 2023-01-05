@@ -157,7 +157,7 @@ section {
     font-weight: 500;
     color: #18191F;
     font-family: 'Poppins', sans-serif;
-    margin: 0 0 0 0;
+    margin: 5px 0 0 0;
 }
 
 .product h3 {
@@ -165,7 +165,7 @@ section {
     font-weight: 400;
     color: rgba(0, 0, 0, 0.87);
     font-family: 'Poppins', sans-serif;
-    margin: 0 0 0 0;
+    margin: 5px 0 10px 0;
 }
 
 .filled {
@@ -175,7 +175,7 @@ section {
 }
 
 .r-text {
-    padding-left: 20px;
+    padding-left: 10px;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     size: 22px;
