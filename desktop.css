@@ -124,6 +124,9 @@ section {
     padding: 10px 20px;
 }
 
+.collection {
+    padding: 0 15%;
+}
 
 .collection h1 {
     font-size: 28px;
