@@ -206,3 +206,19 @@ section {
 .more h3 {
     padding: 0 5px;
 }
+
+.desc h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.join-btn {
+    width: 156px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 1px 24px;
+    gap: 8px;
+    background: #E02C6D;
+    text-decoration: none;
+    color: #FFFFFF;
+}
