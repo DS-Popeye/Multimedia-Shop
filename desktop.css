@@ -214,13 +214,13 @@ section {
 }
 
 .join-btn {
-    width: 156px;
+    width: 130px;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    padding: 1px 24px;
+    padding: 1px 15px;
     gap: 8px;
-    background: #E02C6D;
+    background: rgba(224, 44, 109, 1);
     text-decoration: none;
     color: #FFFFFF;
 }
