@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 /* Navbar Start */
 nav {
     display: flex;
@@ -223,4 +228,11 @@ section {
     background: rgba(224, 44, 109, 1);
     text-decoration: none;
     color: #FFFFFF;
+}
+
+.footer {
+
+    align-items: center;
+    text-align: center;
+    background-color: #18191F;
 }
