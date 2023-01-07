@@ -83,6 +83,7 @@ section {
     font-size: 28px;
     color: #3A3A3A;
     text-align: center;
+    padding: 10px 40px;
 }
 
 .desc p {
@@ -91,9 +92,7 @@ section {
     font-weight: 600;
     font-size: 14px;
     color: #3A3A3A;
-    padding-top: 20px;
-    padding-right: 60px;
-    padding-bottom: 30px;
+    padding: 20px 80px 30px 80px;
     text-align: center;
 }
 
