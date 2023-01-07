@@ -119,14 +119,18 @@ section {
 }
 
 .bg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-image: url(./images/Circle\ design.svg);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 .img {
-    width: 256px;
-    height: 256px;
+    width: 257px;
+    height: 257px;
 }
 
 .sponser {
