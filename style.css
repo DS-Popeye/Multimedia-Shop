@@ -153,7 +153,7 @@ section {
 }
 
 .collection h1 {
-    font-size: 28px;
+    font-size: 16px;
     font-weight: 600;
     color: #3A3A3A;
     text-align: center;
@@ -164,7 +164,7 @@ section {
 /* Products Section */
 .products {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: calc(1, 1fr);
     gap: 8px;
 }
 
