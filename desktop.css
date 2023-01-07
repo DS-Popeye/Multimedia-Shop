@@ -259,3 +259,8 @@ section {
     gap: 16px;
     padding-top: 10px;
 }
+
+.about-icon a {
+    text-decoration: none;
+    color: #FFFFFF
+}
