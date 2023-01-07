@@ -225,7 +225,7 @@ section {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    padding: 1px 25px;
+    padding: 5px 25px;
     gap: 8px;
     background: rgba(224, 44, 109, 1);
     text-decoration: none;
