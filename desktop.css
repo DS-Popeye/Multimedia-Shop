@@ -221,7 +221,7 @@ section {
 }
 
 .join-btn {
-    width: 130px;
+    width: 100px;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
