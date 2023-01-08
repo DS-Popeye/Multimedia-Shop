@@ -232,10 +232,19 @@ section {
     padding: 0 5px;
 }
 
+
+/* last section start */
+
+.last {
+    color: #6C6C6C;
+}
+
 .desc h2 {
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
-    font-size: 38px;
+    font-size: 24px;
+    text-align: center;
+    color: #0A0826;
 }
 
 .join-btn {
